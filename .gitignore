@@ -1,0 +1,13 @@
+HELP.md
+mvnw
+target/
+src/main/resources/static/
+src/main/resources/templates/
+
+### IntelliJ IDEA ###
+.idea
+.mvn
+*.cmd
+*.iws
+*.iml
+*.ipr
